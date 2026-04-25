@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">
+necrux
 
-<!--
-**necrux/necrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **necrux** /nec·rux/ n. **1.** A portmanteau of 'necromancer' and 'Tux'. **2.** A penguin that raises Linux servers from the dead.
+</h1>
 
-Here are some ideas to get you started:
+| <img src="https://github.com/weshenderson/weshenderson.github.io/blob/main/assets/images/necrux-scaled.webp?raw=true" alt="necrux, the Octocat" height="55"/> About Me  |
+| ------------- |
+| ✅ Father  |
+| ✅ Traveler  |
+| ✅ Problem Solver  |
+| ✅ 3D Printer Enthusiast  |
+| ✅ Linux Nerd  |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+* 📫 wes@necrux.com
+* 😎 [weshenderson.info](https://weshenderson.info)
+* 🐧[necrux.com](https://necrux.com)
