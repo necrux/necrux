@@ -12,7 +12,14 @@ necrux
 | ✅ 3D Printer Enthusiast  |
 | ✅ Linux Nerd  |
 
+> [!TIP]
+> When a measure becomes a target, it ceases to be a good measure.<sup>[1](#Sources)</sup>
+
 ### Contact
 * 📫 wes@necrux.com
 * 😎 [weshenderson.info](https://weshenderson.info)
-* 🐧[necrux.com](https://necrux.com)
+* 🐧 [necrux.com](https://necrux.com)
+
+### Sources
+
+1. [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
